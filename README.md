@@ -1,9 +1,3 @@
-# Proiect Cloud
+# Proiect Cloud AWS
+Codrea Catalin Valentin
 
-## Descriere problema
-
-## Arhitectura aplicației
-
-## Instrucțiuni instalare
-
-## Referințe
