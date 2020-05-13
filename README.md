@@ -7,5 +7,5 @@ Designul paginii web este un template basic pe care l-am preluat de pe mediul on
 Functiile folosite pentru apelarea api-urilor sunt functii get. Si pentru apelarea url-urilor api-urilor am folosit fetch.
 De exemplu folosim fetch pentru site ul https://www.boredapi.com/api/activity de pe care cerem prin intermediul aplicatiei returnarea datelor din cadrul acestuia, pentru exemplul acesta solicitam activity si activity type.
 
-
+https://github.com/catalincodrea18/proiect-cloud/blob/master/CaptureAWS1.PNG
 
